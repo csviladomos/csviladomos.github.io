@@ -8,7 +8,7 @@ body { background-color: rgb(76, 11, 141);
 
 
 .buttons{
-  display: grid;
+  display: block;
   flex-direction: row;
   text-align: center;
 }
